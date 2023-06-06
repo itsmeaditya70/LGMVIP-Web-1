@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+     
+}
+
+
+
+
+.header-container{
+
+    background-color: rgb(46, 46, 54);
+    height:55px;
+}
+
+
+
+.main-container{
+
+    
+    background-color: red;
+    
+}
+
+#btn-1{
+    background-color: rgb(11, 195, 11);
+    color: white;
+    width: 91px;
+    height: 31px;
+    margin-top: 23px;
+    padding: 0;
+    margin-left: 11px;
+}
+
+
+#save-btn{
+    background-color: rgb(11, 195, 11);
+    color: white;
+    width: 91px;
+    height: 31px;
+    margin-top: 23px;
+    padding: 0;
+    margin-left: 11px;
+}
+
+#del-btn{
+    background-color: red;
+    color: white;
+    width: 91px;
+    height: 31px;
+    margin-top: 23px;
+    padding: 0;
+    margin-left: 11px;
+}
